@@ -1,7 +1,7 @@
 /* hugo gen chromastyles --style=catppuccin-mocha > code-highlight.css */
 
 /* Background */ .bg { color: #cdd6f4; background-color: #1e1e2e; }
-/* PreWrapper */ .chroma { color: #cdd6f4; background-color: #1e1e2e; }
+/* PreWrapper */ .chroma { color: #cdd6f4; background-color: #181825; }
 /* Other */ .chroma .x {  }
 /* Error */ .chroma .err { color: #f38ba8 }
 /* CodeLine */ .chroma .cl {  }
